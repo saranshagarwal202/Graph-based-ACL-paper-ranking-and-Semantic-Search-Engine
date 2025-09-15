@@ -30,3 +30,8 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+data/*
+.vscode
+acl_ranker
+.DS_Store
